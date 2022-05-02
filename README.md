@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Merilax, a 19 year old dude born in Russia and residing in Spain.
-- 👀 I’m interested in many branchesof technology and its fields.
+- 👀 I’m interested in many branches of technology and its fields.
 - 🌱 I’m currently learning Node.JS and general front-end topics.
 - 📫 You may reach me at [merilaxreloaded@gmail.com](mailto:merilaxreloaded@gmail.com).
